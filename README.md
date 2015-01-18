@@ -1,2 +1,7 @@
-# KingBot
-King Bot ( Kingdom Online)
+# KingBot ( Kingdom Online)
+
+- Oto Mob
+- Oto R (Kombo)
+- Oto Atak
+- Oto Skill
+- Oto Pot
