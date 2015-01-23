@@ -1,4 +1,4 @@
-# KingBot ( Kingdom Online)
+# KingBot (Kingdom Online)
 
 - Oto Mob
 - Oto R (Kombo)
