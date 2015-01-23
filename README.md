@@ -5,3 +5,4 @@
 - Oto Atak
 - Oto Skill
 - Oto Pot
+- Pencere Kontrol
